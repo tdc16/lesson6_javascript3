@@ -13,7 +13,7 @@ Thomas Cascio
 Create a photo gallery that displays the images of cars using the DOM and BOM methods taught in this lesson
 
 ### View Project:
-https://tdc16.github.io/lesson6_javascript3/
+https://tdc16.github.io/lesson6_javascript3/Lesson6_photogallery/
 
 ### Lessons Learned in the Assignment:
 1. How to alter the DOM method to create a loop in JavaScript
